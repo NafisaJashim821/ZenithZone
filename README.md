@@ -7,11 +7,13 @@ Features
 User Management:
 •	 Customer, Seller, Artisan, and Admin roles.
 •	  Signup and login functionality.
+
 E-commerce Functionality:
 •	 Add products to carts and wishlists.
 •	Second-hand product sales.
 •	Personalized product recommendations.
 •	Seamless coupon application for discounts.
+
   Artisan Features:
 •	Showcase unique artwork.
 •	Enable bidding for exclusive pieces.
@@ -23,7 +25,7 @@ E-commerce Functionality:
 
 
 Technologies Used
-•	Frontend Development: HTML, CSS, JavaScript.
+•	Frontend Development: HTML, CSS (tailwind), JavaScript.
 •	Backend Development: PHP.
 •	Database Management: SQL (Structured Query Language).
 •	Development Environment: Visual Studio Code (VS Code).
@@ -66,8 +68,4 @@ Future Enhancements
 •	Add multi-language support.
 •	Enable integration with third-party logistics and delivery services.
 
-Contributors
-•	Rajib Kumar Dhar (Email: rajib2516@student.nstu.edu.bd)
-•	Nafisa Binte Jashim (Email: nafisa2516@student.nstu.edu.bd)
-•	Nadia Jahan (Email: nadia2516@student.nstu.edu.bd)
-•	Sidratul Muntaha (Email: nisha2516@student.nstu.edu.bd)
+
